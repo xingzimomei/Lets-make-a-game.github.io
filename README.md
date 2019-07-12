@@ -1,2 +1,5 @@
-# WebglGame
-Be the better one~
+# Let's make a game
+
+It will be a Legendary game~
+
+
